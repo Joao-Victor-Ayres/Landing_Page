@@ -13,7 +13,6 @@
 }
 
 html {
-    /* Pq usou 62.5%?? */
     font-size: 62.5%;
     scroll-behavior: smooth;
 }
@@ -88,6 +87,7 @@ caption {
 }
 
 .main-bg {
+    /*    svgbackgrounds.com  */
     background-image: url('../img/main-bg.svg');
     background-size: cover;
     background-position: center center;
